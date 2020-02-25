@@ -1,2 +1,0 @@
-# IGNITECH
-Demo for Calculator
